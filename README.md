@@ -48,9 +48,9 @@ As part of the **CodeAlpha internship**, I was assigned to:
 
 ---
 
-## 📬 Contact
+## Contact
 
-**👤 Name:** Satvik Hatulkar  
-**📧 Email:** satwikhatulkar@gmail.com  
-**🌐 LinkedIn:** [linkedin.com/in/satvikhatulkar](https://www.linkedin.com/in/satvik-hatulkar-a91042252)  
-**🔐 GitHub:** [github.com/satvikhatulkar](https://github.com/SatvikHatulkar)
+**Name:** Satvik Hatulkar  
+**Email:** satwikhatulkar@gmail.com  
+**LinkedIn:** [linkedin.com/in/satvikhatulkar](https://www.linkedin.com/in/satvik-hatulkar-a91042252)  
+**GitHub:** [github.com/satvikhatulkar](https://github.com/SatvikHatulkar)
